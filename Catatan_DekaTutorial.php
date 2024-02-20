@@ -17,16 +17,15 @@ Mau custom web ucapan online? Order Aja di Deka Tutorial !! (DM untuk order)
 + Tiktok: @deka_tutorial
 + Instagram: deka_tutorial
 =========================*/
-
 konten = [
   {
-    gambar: "NamaFileGambar",
-    ucapan: "UcapanKalian",
+    gambar: "template.jpg",
+    ucapan: "selamat ulang tahun istriku terayaang",
   },
 ];
 
-musik = "musik.mp3";
-nomorWhatsapp = "6281xxx";
+musik = "jt.mp3";
+nomorWhatsapp = "";
 
 /*=========================*/
 </script><script> DekaTutorial(konten, musik, nomorWhatsapp); </script> </body> </html>
