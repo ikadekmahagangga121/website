@@ -11,21 +11,15 @@
       </div>
     </div>
 <script>
-/*=========================
-Mau custom web ucapan online? Order Aja di Deka Tutorial !! (DM untuk order)
-+ Youtube: Deka Tutorial
-+ Tiktok: @deka_tutorial
-+ Instagram: deka_tutorial
-=========================*/
 konten = [
   {
     gambar: "template.jpg",
-    ucapan: "selamat ulang tahun istriku terayaang",
+    ucapan: "selamat ulang tahun istriku terayaang cemoga cengengnya dikurangin ndak malah malah mulu i lov you ayaang <3",
   },
 ];
 
 musik = "jt.mp3";
-nomorWhatsapp = "";
+nomorWhatsapp = "62881038556483";
 
 /*=========================*/
 </script><script> DekaTutorial(konten, musik, nomorWhatsapp); </script> </body> </html>
